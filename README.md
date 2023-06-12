@@ -16,3 +16,5 @@ The two main libraries, PyQt6 and OpenAI can be installed using the following co
 
 <p align="justify"> A screenshot of the implementation of the Chatbot has been attached. </p>
 
+![Untitled](https://github.com/ChiragRadhakrishna43-7/Chatbot/assets/121251823/10503605-8a06-497c-bf6e-38e92fed4b14)
+
